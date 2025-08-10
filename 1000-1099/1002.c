@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(void) {
+int main (void) {
     double pi = 3.14159;
     double r;
     scanf("%lf", &r);

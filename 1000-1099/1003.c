@@ -3,7 +3,7 @@
 int main (void) {
     int a, b;
     scanf("%d %d", &a, &b);
-    int x = a + b;
-    printf("X = %d\n", x);
+    int SOMA = a + b;
+    printf("SOMA = %d\n", SOMA);
     return 0;
 }

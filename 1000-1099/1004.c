@@ -3,7 +3,7 @@
 int main (void) {
     int a, b;
     scanf("%d %d", &a, &b);
-    int x = a + b;
-    printf("X = %d\n", x);
+    int PROD = a * b;
+    printf("PROD = %d\n", PROD);
     return 0;
 }
