@@ -1,8 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-struct ponto
-{
+struct ponto {
     double x;
     double y;
 };
