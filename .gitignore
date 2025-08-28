@@ -3,3 +3,6 @@ prog.c
 /.vscode/
 *.vscode
 /1000-1100/
+input.txt
+output.txt
+answer.txt
