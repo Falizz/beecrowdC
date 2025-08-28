@@ -32,7 +32,7 @@ int main (void) {
     
         i++;
 
-        printf("Cidade# %d\n", i);
+        printf("Cidade# %d:\n", i);
 
         for (int j = 0; j < n; j++) {
             int pessoas, m3;

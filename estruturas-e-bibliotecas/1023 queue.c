@@ -67,7 +67,7 @@ int main (void) {
         int quantidadePessoas = 0;
     
         i++;
-        printf("Cidade# %d\n", i);
+        printf("Cidade# %d:\n", i);
         queue* f = iniciarfila(n);
         
         for (int j = 0; j < n; j++) {
