@@ -2,3 +2,4 @@ prog
 prog.c
 /.vscode/
 *.vscode
+/1000-1100/
