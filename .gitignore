@@ -1,8 +1,4 @@
-prog
-prog.c
 /.vscode/
 *.vscode
+/test/
 /1000-1100/
-input.txt
-output.txt
-answer.txt
